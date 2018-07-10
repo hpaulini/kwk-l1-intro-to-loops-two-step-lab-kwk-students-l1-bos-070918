@@ -4,7 +4,7 @@ def first_steps
   loop do
     puts "Step to the left"
     puts "Step to the right"
-    x=x+1
+    x+=1
     if (x==6)
       break
     end
