@@ -6,6 +6,7 @@ def first_steps
     puts "Step to the right"
     i++
     if (i==6)
+      break
   end
 end
 
