@@ -5,6 +5,7 @@ def first_steps
     puts "Step to the left"
     puts "Step to the right"
     i++
+    if (i==6)
   end
 end
 
