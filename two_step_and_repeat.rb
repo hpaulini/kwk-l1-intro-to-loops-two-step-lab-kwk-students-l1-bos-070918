@@ -1,6 +1,6 @@
 
 def first_steps
-  
+  i-0
   loop do
     puts "Step to the left"
     puts "Step to the right"
