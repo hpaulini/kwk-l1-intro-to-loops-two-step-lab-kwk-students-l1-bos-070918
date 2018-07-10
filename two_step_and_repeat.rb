@@ -7,6 +7,7 @@ def first_steps
     x=x+1
     if (x==6)
       break
+    end
   end
 end
 
