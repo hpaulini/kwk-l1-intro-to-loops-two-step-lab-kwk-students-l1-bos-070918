@@ -1,7 +1,7 @@
 
 def first_steps
   x=0
-  loop do
+  until x=6
     puts "Step to the left"
     puts "Step to the right"
     x+=1
