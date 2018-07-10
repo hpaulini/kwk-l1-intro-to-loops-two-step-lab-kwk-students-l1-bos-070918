@@ -1,11 +1,11 @@
 
 def first_steps
-  i=0
+  x=0
   loop do
     puts "Step to the left"
     puts "Step to the right"
-    i++
-    if (i==6)
+    x+1
+    if (x==6)
       break
   end
 end
