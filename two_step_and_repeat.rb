@@ -1,7 +1,7 @@
 
 def first_steps
   x=0
-  loop do
+  while(x<7)
     puts "Step to the left"
     puts "Step to the right"
     x+=1
