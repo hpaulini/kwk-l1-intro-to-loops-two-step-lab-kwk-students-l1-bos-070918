@@ -5,8 +5,6 @@ def first_steps
     puts "Step to the left"
     puts "Step to the right"
     x+=1
-    if (x==6)
-      break
     end
   end
 end
