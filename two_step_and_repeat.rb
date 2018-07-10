@@ -7,6 +7,7 @@ def first_steps
 end
 
 puts "Now jump up and down!"
+
 first_steps
 
 def a_few_more_steps
