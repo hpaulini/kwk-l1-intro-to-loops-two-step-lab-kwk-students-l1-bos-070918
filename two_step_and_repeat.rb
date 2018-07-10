@@ -7,7 +7,7 @@ def first_steps
     x+=1
     end
   end
-end
+
 
 first_steps
 
