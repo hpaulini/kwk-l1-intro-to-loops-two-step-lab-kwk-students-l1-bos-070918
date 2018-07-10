@@ -2,9 +2,11 @@ def first_steps
   loop do
     puts "Step to the left"
     puts "Step to the right"
+    break
   end
 end
 
+puts "Now jump up and down!"
 first_steps
 
 def a_few_more_steps
